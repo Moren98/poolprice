@@ -1,0 +1,13 @@
+{
+  "name": "hyperswap-apr-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes APR from a HyperSwap pool",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "TuNombre",
+  "dependencies": {
+    "apify": "^3.0.0"
+  }
+}
