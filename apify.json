@@ -1,0 +1,7 @@
+{
+  "name": "hyperswap-apr-scraper",
+  "version": "1.0.0",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
